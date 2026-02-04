@@ -29,3 +29,14 @@ Project Objective
 - Analyzed sales and profit trends across time, regions, and product categories.
 - Designed an interactive dashboard to visualize insights clearly and effectively.
 
+## Key Insights
+
+- Technology and Office Supplies contribute significantly to overall sales.
+- Some sub-categories show negative profit despite good sales, indicating pricing or cost issues.
+- A few states dominate sales performance, while others have low contribution.
+- Monthly trends reveal seasonal sales patterns, useful for planning promotions.
+- Higher sales do not always mean higher profit, highlighting the importance of profit-focused analysis.
+- Certain products need cost optimization or discontinuation due to consistent losses.
+
+## Conclusion
+The dashboard provides a clear overview of sales and profit performance across products and regions. It helps identify key trends, profitable areas, and loss-making segments to support better business decisions.
