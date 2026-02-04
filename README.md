@@ -10,8 +10,8 @@ Project Objective
 <a href="https://github.com/Aman-Sharma1812/Data_Analysis_Dashboard_using_Excel/blob/main/Sale%26Profit_dashboard_project.xlsx">Dataset</a>
 
 ## Business Questions / KPIs
--What is the total sales and total profit?
--Which product categories generate the highest sales?
+- What is the total sales and total profit?
+- Which product categories generate the highest sales?
 -Which sub-categories are causing losses?
 -Which states contribute the most to sales and profit?
 -Monthly sales and profit trend analysis
