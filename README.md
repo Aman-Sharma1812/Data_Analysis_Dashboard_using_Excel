@@ -12,9 +12,20 @@ Project Objective
 ## Business Questions / KPIs
 - What is the total sales and total profit?
 - Which product categories generate the highest sales?
--Which sub-categories are causing losses?
--Which states contribute the most to sales and profit?
--Monthly sales and profit trend analysis
--Which categories have high sales but low profit?
--How does quantity sold impact profit?
--Year-wise performance comparison
+- Which sub-categories are causing losses?
+- Which states contribute the most to sales and profit?
+- Monthly sales and profit trend analysis
+- Which categories have high sales but low profit?
+- How does quantity sold impact profit?
+- Year-wise performance comparison
+
+<a href="https://github.com/Aman-Sharma1812/Data_Analysis_Dashboard_using_Excel/blob/main/Data_Analysis_Dashboard_using_Excel.png">View Dashboard</a>
+
+## Process
+
+- Collected and reviewed the sales dataset to understand the structure and key variables.
+- Cleaned and prepared the data by handling missing values and formatting columns.
+- Defined key KPIs such as total sales, total profit, and category-wise performance.
+- Analyzed sales and profit trends across time, regions, and product categories.
+- Designed an interactive dashboard to visualize insights clearly and effectively.
+
