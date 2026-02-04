@@ -6,3 +6,5 @@ The dashboard helps identify profitable segments, loss-making products, sales tr
 ## Project Description
 This project analyzes sales and profit data to evaluate business performance across products, regions, and time. An interactive dashboard highlights key KPIs, trends, and profit patterns. The analysis supports data-driven decision-making by identifying profitable and loss-making areas.
 Project Objective
+
+<a href="https://github.com/Aman-Sharma1812/Data_Analysis_Dashboard_using_Excel/blob/main/Sale%26Profit_dashboard_project.xlsx">Dataset</a>
